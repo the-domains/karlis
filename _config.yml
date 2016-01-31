@@ -1,0 +1,14 @@
+layout_spectrum: 0.07885305
+typography_spectrum: 0.3530466
+color:
+  saturation: 0.4462366
+  lightness: 0.5573477
+  brandStrength: 0.05687254
+  rhythmicContrast: 0.4086021
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: karlis
